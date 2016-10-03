@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">S8A3ParallelAsyncTask</string>
+    <string name="strt_prll_async_task_btn">Start Parallel Async Task</string>
+</resources>
